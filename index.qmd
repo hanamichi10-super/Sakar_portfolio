@@ -1,0 +1,36 @@
+---
+title: "Sakar Dahal"
+format: html
+image: my.jpg
+---
+
+## About Me
+
+Welcome to my personal website! I'm a Computer Science major with a minor in Data Science at University of Colorado Denver.
+
+[Email](mailto:dsakar100@gmail.com)  
+[GitHub](https://github.com/hanamichi10-super)  
+[LinkedIn](https://www.linkedin.com/in/sakar1dahal/)
+
+# Skills
+
+- **Programming Languages:** C++, Python, Java
+- **AI & Machine Learning:** OpenCV, image processing, object tracking, classification, pattern detection, AI search models, introductory LLM prompting
+- **Mobile Development:** Android App Development using Java + Android Studio
+- **Operating Systems:** Windows, Linux
+- **Frameworks & Tools:** Git, GitHub, Android Studio, Visual Studio, Eclipse, VS Code, Jupyter Notebook, Google Colab, NumPy, Pandas, OpenCV, Flask (basic), Node.js (basic), MySQL, AWS (Cloud Fundamentals), Postman, Excel
+
+
+
+# Education
+
+**Bachelor of Arts in Computer Science**  
+University of Colorado Denver  
+Expected Graduation: May 2026  
+**GPA:** 3.1  
+**Major:** Computer Science  
+**Minor:** Data Science  
+
+**Relevant Coursework:** Data Structures, Algorithms, Object-Oriented Programming, Database Systems, Operating Systems, Deep Learning, Graph Theory, Data Wrangling, Web Application Development
+
+---

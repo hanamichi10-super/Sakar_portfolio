@@ -1,0 +1,17 @@
+---
+title: "Hobbies"
+format: html
+---
+
+
+## My Hobbies
+
+###  Playing Video Games
+I enjoy playing **FIFA** and **Call of Duty**. These games are competitive and fun, especially playing with friends online. I'm always trying to improve my rank and skills.
+
+### Soccer (Semi-Professional)
+I play soccer at a **semi-professional level** for **Boulder United**. Soccer is my passion as it keeps me fit, builds teamwork, and the competition pushes me to be better every day.
+
+###  Cricket (Division 2)
+I play cricket in **Division 2** in Colorado for **CNYC (Colorado Nepal Youth Cricket)**. Cricket is a strategic and exciting sport that requires patience and skill. I love the camaraderie and competitive spirit of the league.
+---
