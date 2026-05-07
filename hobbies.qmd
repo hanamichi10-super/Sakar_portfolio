@@ -1,9 +1,7 @@
 ---
-title: "Hobbies"
+title: "My Hobbies"
 format: html
 ---
-
-## My Hobbies
 
 ### Playing Video Games
 
